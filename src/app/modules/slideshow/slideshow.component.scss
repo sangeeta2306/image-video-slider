@@ -48,22 +48,22 @@ $border-color: darken(#FFF, 5%);
 
     &.slide-in-left {
       left: 0;
-      animation: slideInLeft .5s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+      animation: slideInLeft .01s cubic-bezier(0.420, 0.000, 0.580, 1.000);
     }
 
     &.slide-in-right {
       left: 0;
-      animation: slideInRight .5s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+      animation: slideInRight .01s cubic-bezier(0.420, 0.000, 0.580, 1.000);
     }
 
     &.slide-out-left {
       left: -100%;
-      animation: slideOutLeft .5s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+      animation: slideOutLeft .01s cubic-bezier(0.420, 0.000, 0.580, 1.000);
     }
 
     &.slide-out-right {
       left: 100%;
-      animation: slideOutRight .5s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+      animation: slideOutRight .01s cubic-bezier(0.420, 0.000, 0.580, 1.000);
     }
 
     &.link {

@@ -137,3 +137,4 @@ this.slideshow.onSlide(1); // next slide
 ```typescript
 this.slideshow.onSlide(-1); // previous slide
 ```
+# image-video-slider
